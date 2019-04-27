@@ -1,3 +1,3 @@
 # KappaBot-Changelog
 
-Version: 3.1.1 - Beta
+Version: 3.1.2 - Beta
