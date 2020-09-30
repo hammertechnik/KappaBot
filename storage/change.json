@@ -1,0 +1,3 @@
+{
+    "changes": "-improved Rank Color if someone else got checked\n-fixed ``unmute`` command\n-some design improvements\n-added ``muterole`` system\n-added ``permlevel`` system\n-overhauled note system"
+}

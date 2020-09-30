@@ -1,0 +1,43 @@
+{
+  "name": "kappabot",
+  "version": "3.1.5",
+  "description": "KappaBot is a great Chat-/Moderator Bot!",
+  "main": "KappaBot.js",
+  "dependencies": {
+    "discord-leveling": "^1.0.3",
+    "discord.io": "^2.5.3",
+    "discord.js": "^11.4.2",
+    "discord.js-musicbot-addon": "^13.4.5",
+    "enmap": "^4.8.4",
+    "exact-math": "^2.0.0",
+    "ffmpeg-binaries": "^4.0.0",
+    "fresh": "^0.5.2",
+    "ms": "^2.1.1",
+    "node-pre-gyp": "^0.12.0",
+    "node.js": "^0.0.0",
+    "opus": "^0.0.0",
+    "opusscript": "^0.0.6",
+    "prism": "^4.1.2",
+    "request": "^2.88.0",
+    "sequelize": "^5.3.1",
+    "sqlite3": "^4.0.6",
+    "superagent": "^5.0.2",
+    "winston": "^3.2.0",
+    "ytdl-core": "^0.29.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "!ping"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hammertechnik/KappaBot"
+  },
+  "keywords": [
+    "Moderation",
+    "Chat",
+    "Fun"
+  ],
+  "author": "Hammer1279",
+  "license": "ISC"
+}

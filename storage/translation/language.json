@@ -1,0 +1,373 @@
+﻿{
+    "english":{
+        "credits": {
+            "name": "Credits:",
+            "mp": "Developer:",
+            "mp2": "**Hammer1279**#2365",
+            "jr": "Helping Hands:",
+            "jr2": "**Lord Bidoof**#6554\n**TheFireDragon**#9993",
+            "d": "Designer:",
+            "d2": "**мιиєяαѕ**#5835",
+            "t": "Translator:",
+            "t2": "**TheFireDragon**#9993",
+            "creator": "made by: Hammer1279"
+        },
+        "stats": {
+            "h": "hours",
+            "min": "minutes and",
+            "sec": "seconds",
+            "creator": "made by: Hammer1279",
+            "Us": "Users:",
+            "S": "Servers:",
+            "C": "Channels:",
+            "P": "Ping:",
+            "L": "Libary:",
+            "U": "Uptime:"
+        },
+        "welcome": {
+            "message": ["Hey", ", welcome!"]
+        },
+        "bye": {
+            "message": ["The Member", "just left us!"]
+        },
+        "help": {
+        "main": {
+            "rb": "Requested by:",
+            "page": "🔖All available Categories:",
+            "howpage": "How to access Categories:",
+            "howtopage": "Syntax:",
+            "command": "Commands:",
+            "creator": "made by: Hammer1279"
+        },
+        "moderator": {
+            "purge": "delete messages",
+            "tempmute": "mutes a member for a set ammount of time",
+            "mute": "permmutes a member",
+            "unmute": "unmutes a member",
+            "kick":"kicks a member from the server",
+            "ban": "banns a member from the server"
+        },
+        "info": {
+            "help": "opens the help window",
+            "credits": "show who made Kappa",
+            "version": "shows the current version and changelog",
+            "rank": "shows the rank of you or someone else",
+            "stats": "bot statistics",
+            "ping": "lets you know if the bot is alive",
+            "pong": "get the latency of the Bot",
+            "botinfo": "shows infos about the bot",
+            "serverinfo": "get infos about the server"
+        },
+        "utility": {
+            "rankcolor": "changes the color of the Rankcard",
+            "bug": "reports a Bug to the Dev's",
+            "lang": "changes Kappa's Language",
+            "muterole": "sets a muterole",
+            "setsuggest": "sets the channel for suggestions",
+            "setwelcome": "sets the channel where Kappa greets new members",
+            "spacer": "when u want to organize a channel",
+            "suggest": "give the Dev's a suggestion about Kappa"
+        },
+        "misc": {
+            "dm": "sends a direct message to a member.",
+            "invite": "Sends the link to get Kappa also to your Server",
+            "say": "Let the Bot speak"
+        },
+        "fun": {
+            "meme": "sends some dank memes"
+        }
+        },
+        "suggest": {
+            "e1": "you forgot ur suggestion along the way!",
+            "e2": "your syntax is wrong! Use it like this:",
+            "mb": "made by Hammer1279",
+            "sb": "Suggestion by:",
+            "server" : "Server:",
+            "question": "Do you really want to send this?",
+            "yes": ["y", "yes", "yep"],
+            "no": ["n","no","cancel", "nope"],
+            "send": "Suggestion sent!",
+            "cancel": "Cancelled!"
+        },
+        "bug": {
+            "e1": "You need to add the Bug you want to report!",
+            "e2": "your syntax is wrong! Use it like this:",
+            "rb": "Reported by:",
+            "server": "Server:",
+            "send": "your Bug has been Reported to the Devs, for further questions contact them here: **hammertechnik@gmail.com**"
+        },
+        "set": {
+            "welcome": {
+                "e1": "Dude, ur not a admin!",
+                "e2": "Dude, you forgot the welcome channel to set!",
+                "e3": "this is not a valid channel!",
+                "m1": "Welcomechannel Set!",
+                "m2": "Set to"
+            },
+            "suggest": {
+                "e1": "Dude, ur not a admin!",
+                "e2": "Dude, you forgot the suggestion channel to set!",
+                "e3": "this is not a valid channel!",
+                "m1": "Suggestchannel Set!",
+                "m2": "Set to"
+            },
+            "mute": {
+                "e1": "Dude, ur not a admin!",
+                "e2": "Dude, you forgot the muterole to set!",
+                "e3": "this is not a valid role!",
+                "m1": "Muteroles Set!",
+                "m2": "Set to",
+                "created": "Muterole Created!"
+            }
+        }
+    },
+
+    "german":{
+        "credits": {
+            "name": "Ersteller:",
+            "mp": "Haupt Programmierer:",
+            "mp2": "**Hammer1279**#2365",
+            "sp": "Neben Programmierer:",
+            "sp2": "**Hab**#2082",
+            "jr": "Jr. Programmierer:",
+            "jr2": "**Lord Bidoof**#6554",
+            "d": "Designer:",
+            "d2": "**TheFireDragon**#9993\n**мιиєяαѕ**#5835",
+            "t": "Übersetzer:",
+            "t2": "**TheFireDragon**#9993",
+            "creator": "erstellt von: Hammer1279"
+        },
+        "stats": {
+            "h": "Stunden",
+            "min": "Minuten und",
+            "sec": "Sekunden",
+            "creator": "erstellt von: Hammer1279",
+            "Us": "Nutzer:",
+            "S": "Server:",
+            "C": "Kanäle:",
+            "P": "Ping:",
+            "L": "Bibliothek:",
+            "U": "Onlinezeit:"
+        },
+        "welcome": {
+            "message": ["Hey", ", willkommen!"]
+        },
+        "bye": {
+            "message": ["Der User", "hat uns gerade verlassen!"]
+        },
+        "help": {
+            "main": {
+                "rb": "Angefragt von:",
+                "page": "🔖Alle Katergorien:",
+                "howpage": "Wie öffnet man die Katergorien?:",
+                "howtopage": "Syntax:",
+                "command": "Commands:",
+                "creator": "erstellt von: Hammer1279"
+            },
+            "moderator": {
+                "purge": "löscht Nachrichten",
+                "tempmute": "mutet einen User für eine spezifische Zeit",
+                "mute": "mutet einen User",
+                "unmute": "entmutet einen User",
+                "kick":"Kickt einen User vom Server",
+                "ban": "Bannt einen User vom Server"
+            },
+            "info": {
+                "help": "öffnet die Hile",
+                "credits": "Zeigt wer Kappa Programmiert hat",
+                "version": "Zeigt Kappas aktuelle Version an",
+                "rank": "zeigt deinen Rang oder von jemanden anderen",
+                "stats": "Bot Statistiken",
+                "ping": "zeigt ob Kappa noch Lebt",
+                "pong": "Zeigt die Verzögerung",
+                "botinfo": "zeigt ein paar Infos über den Bot",
+                "serverinfo": "zeigt ein paar Infos über den Server"
+            },
+            "utility": {
+                "rankcolor": "ändert die Farbe von der Rang Karte",
+                "bug": "Meldet einen Bug",
+                "lang": "ändert Kappas Sprache",
+                "muterole": "stellt einen Muterang ein",
+                "setsuggest": "stellt den Vörschlagskanal ein",
+                "setwelcome": "stellt den Kanal für neue User ein",
+                "spacer": "zum Organisieren von Kanälen",
+                "suggest": "sende einen Vorschlag an die Kappa Dev's"
+            },
+            "misc": {
+                "dm": "Sendet eine DM an einen User.",
+                "invite": "Sendet den Link um Kappa auch zu deinem Server hinzuzufügen",
+                "say": "lasse Kappa Reden"
+            },
+            "fun": {
+                "meme": "sendet paar coole Memes"
+            }
+            },
+            "suggest": {
+                "e1": "du hast deinen Verschlag vergessen!",
+                "e2": "du nutzt den falschen Syntax! Nutz den Command so:",
+                "mb": "erstellt von Hammer1279",
+                "sb": "Vorschlag von:",
+                "server" : "Server:",
+                "question": "Möchtest du dies wirklich senden?",
+                "yes": ["j", "ja"],
+                "no": ["n","nein","abbrechen"],
+                "send": "Vorschlag gesendet!",
+                "cancel": "Abgebrochen!"
+            },
+            "bug": {
+                "e1": "Du hast den Bug vergessen!",
+                "e2": "dein Syntax ist falsch! Nutz den Command so:",
+                "rb": "Reported by:",
+                "server": "Server:",
+                "send": "dein Bug wurde den Devs gemeldet, für weitere Fragen kontaktiere sie hier: **hammertechnik@gmail.com**"
+            },
+            "set": {
+                "welcome": {
+                    "e1": "Dude, bist du nen Admin?!",
+                    "e2": "Dude, du hast den Willkommen Kanal vergessen!",
+                    "e3": "das ist kein Channel!",
+                    "m1": "Willkommenkanal gesetzt!",
+                    "m2": "Eingestellt zu"
+                },
+                "suggest": {
+                    "e1": "Dude, bist du nen Admin?!",
+                    "e2": "Dude, du hast den Vorschlags Kanal vergessen!",
+                    "e3": "das ist kein Channel!",
+                    "m1": "Vorschlagkanal gesetzt!",
+                    "m2": "Eingestellt zu"
+                }
+            },
+            "mute": {
+                "e1": "Dude, bist du nen Admin?!",
+                "e2": "Dude, du hast den Vorschlags Kanal vergessen!",
+                "e3": "das ist kein Rang!",
+                "m1": "Muterang gesetzt!",
+                "m2": "Eingestellt zu",
+                "created": "Muterole Created!"
+            }
+    },
+
+    "french":{
+        "credits": {
+            "name": "Crédits:",
+            "mp": "Développeur : ",
+            "mp2": "**Hammer1279**#2365",
+            "jr": "Bras droits : ",
+            "jr2": "**Lord Bidoof**#6554\n**TheFireDragon**#9993",
+            "d": "Designer : ",
+            "d2": "**мιиєяαѕ**#5835",
+            "t": "Traducteur : ",
+            "t2": "**TheFireDragon**#9993",
+            "creator": "Fait par : Hammer1279"
+        },
+        "stats": {
+            "h": "heures",
+            "min": "minutes et",
+            "sec": "secondes",
+            "creator": "fait par: Hammer1279",
+            "Us": "Utilisateurs:",
+            "S": "Serveurs:",
+            "C": "Salons:",
+            "P": "Ping:",
+            "L": "Library:",
+            "U": "Temps de marche:"
+        },
+        "welcome": {
+            "message": ["Hey", ", bienvenue!"]
+        },
+        "bye": {
+            "message": ["Le membre", "vient de nous quitter!"]
+        },
+        "help": {
+            "main": {
+                "rb": "Demandé par:",
+                "page": "🔖Toutes les catégories disponibles:",
+                "howpage": "Comment accéder aux catégories:",
+                "howtopage": "Syntaxe:",
+                "command": "Commandes:",
+                "creator": "fait par: Hammer1279"
+            },
+            "moderator": {
+                "purge": "supprime des messages",
+                "tempmute": "Mute un membre pendant une durée définie",
+                "mute": "Mute un membre pour une durée permanente",
+                "unmute": "Enlève le mute à un membre",
+                "kick":"Expulse un membre du serveur",
+                "ban": "Bannis un membre du serveur"
+            },
+            "info": {
+                "help": "Ouvre la fenêtre d'aide",
+                "credits": "Affiche qui a fait Kappa",
+                "version": "shows the current version of Kappa",
+                "rank": "Affiche ton niveau ou celui d'un autre",
+                "stats": "Statistiques du bot",
+                "ping": "Dis si le bot est en vie",
+                "pong": "Affiche la latence du bot",
+                "botinfo": "Affiche des infos sur le bot",
+                "serverinfo": "Affiche des infos sur le serveur"
+            },
+            "utility": {
+                "rankcolor": "Change la couleur de ta carte de niveau",
+                "bug": "Signale un bug aux développeurs",
+                "lang": "Change le language de Kappa",
+                "muterole": "sets a muterole",
+                "setsuggest": "Définis le salon où seront postées toutes les suggestions pour voter",
+                "setwelcome": "Définis le salon où Kappa saluera les nouveaux membres",
+                "spacer": "Pour organiser un salon",
+                "suggest": "Envoie une suggestion pour Kappa aux développeurs"
+            },
+            "misc": {
+                "dm": "Envoie un message privé à un membre",
+                "invite": "Envoie le lien pour inviter Kappa dans ton serveur",
+                "say": "Laisse le bot parler"
+            },
+            "fun": {
+                "meme": "Envoie des memes"
+            }
+            },
+            "suggest": {
+                "e1": "T'as perdu ta suggestion en chemin!",
+                "e2": "Mauvaise syntaxe! Essaie ça:",
+                "mb": "Fait par Hammer1279",
+                "sb": "suggestion de:",
+                "server" : "Serveur:",
+                "question": "Tu veux vraiment envoyer ça?",
+                "yes": ["y", "o", "oui"],
+                "no": ["n","no","non", "nope"],
+                "send": "Suggestion envoyée!",
+                "cancel": "Annulé!"
+           },
+           "bug": {
+            "e1": "Tu dois ajouter le bug que tu veux signaler !",
+            "e2": "Syntaxe incorrecte ! Essaie plutôt comme ça :",
+            "rb": "Reported by:",
+            "server": "Server:",
+            "send": "Ton bug a été signalé aux développeurs, pour plus de renseignements contacter : **hammertechnik@gmail.com**"
+        },
+        "set": {
+            "welcome": {
+                "e1": "Mec, t'es pas un admin !",
+                "e2": "T'as oublié de préciser le salon !",
+                "e3": "Ce n'est pas un salon valide.",
+                "m1": "Salon de bienvenue paramétré !",
+                "m2": "Salon assigné :"
+            },
+            "suggest": {
+                "e1": "Mec, t'es pas un admin !",
+                "e2": "T'as oublié de préciser le salon où vont les suggestions !",
+                "e3": "Ce n'est pas un salon valide.",
+                "m1": "Salon des suggestions paramétré !",
+                "m2": "Assigné à :"
+            }
+        },
+        "mute": {
+            "e1": "Dude, bist du nen Admin?!",
+            "e2": "Dude, du hast den Vorschlags Kanal vergessen!",
+            "e3": "das ist kein Rang!",
+            "m1": "Muterang gesetzt!",
+            "m2": "Eingestellt zu",
+            "created": "Muterole Created!"
+        }
+    }
+
+}
