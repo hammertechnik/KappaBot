@@ -1,3 +1,4 @@
+Please note that KappaBot got discontinued!
 # KappaBot
 
 Version: 3.1.5
